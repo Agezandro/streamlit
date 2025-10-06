@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 st.set_page_config(page_title="Meu Primeiro App Streamlit", layout="wide")
 
 st.title("📊 Meu Web App em Streamlit")
-st.write("👨‍💻 Autor: **Seu Nome Aqui**")
+st.write("👨‍💻 Autor: **Agezandro Frederich Pratti**")
 st.write("🎯 Tema: **Análise Educacional com Dados do IDEB**")
 
 # ===================================
