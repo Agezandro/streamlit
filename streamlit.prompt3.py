@@ -7,7 +7,7 @@ st.set_page_config(page_title="App Estrutura - Etapa 1", layout="wide")
 # Cabeçalho
 # ===============================
 st.title("📊 Meu Web App - Estrutura Inicial")
-st.write("👨‍💻 Autor: Seu Nome Aqui")
+st.write("👨‍💻 Autor: Agezandro")
 st.write("🎯 Tema: Educação e Análise de Indicadores Escolares")
 
 # ===============================
